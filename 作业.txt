@@ -1,0 +1,24 @@
+1.套路跟足球全一样
+750px-iphone6
+
+rem->px 75
+
+
+
+
+main{
+	flex：1；
+	overflow-x:hidden;
+	display:flex;   //错误
+}
+.main .main1{
+	height:100px;
+}
+
+{height:;background-size:cover;background-position:center;}
+
+足球圈敲两三遍
+支付宝
+
+
+
